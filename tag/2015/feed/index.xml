@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2015 &#8211; Piccoli passi grandi sogni</title>
+	<atom:link href="https://https://github.com/fill-x/piccolipassigrandisogni/tag/2015/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://github.com/fill-x/piccolipassigrandisogni/</link>
+	<description></description>
+	<lastBuildDate>Tue, 09 Jun 2015 09:46:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>PHOTOGALLERY/ Il nostro calendario del 2015: ecco tutte le immagini</title>
+		<link>https://https://github.com/fill-x/piccolipassigrandisogni/photogallery-il-nostro-calendario-del-2015-ecco-tutte-le-immagini/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2015 09:46:12 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Photogallery]]></category>
+		<category><![CDATA[2015]]></category>
+		<category><![CDATA[calendario]]></category>
+		<category><![CDATA[don bosco]]></category>
+		<category><![CDATA[piccoli passi grandi sogni]]></category>
+		<guid isPermaLink="false">http://www.piccolipassigrandisogni.it/?p=316</guid>
+
+					<description><![CDATA[&#160; Per un 2015 in nostra compagnia&#8230; LE FOTO [gmedia id=23]]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Per un 2015 in nostra compagnia&#8230;</p>
+<div class="foto_bar">LE FOTO</div>
+<p>[gmedia id=23]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
