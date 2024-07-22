@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 	<item>
 		<title>EDUCAZIONE È PREVENZIONE &#8211; INAUGURAZIONE CENTRO DIURNO “BUONA STOFFA”</title>
 		<link>https://fill-x.github.io/piccolipassigrandisogni/educazione-e-prevenzione-inaugurazione-centro-diurno-buona-stoffa/</link>
@@ -364,7 +364,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li><strong>Lucia Fortini &#8211;&nbsp;</strong>Assessore Regione Campania Scuola, Politiche sociali e Politiche Giovanili</li>
 </ul>
 

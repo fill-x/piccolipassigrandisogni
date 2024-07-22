@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 	<item>
 		<title>Giornata internazionale per l’eliminazione della discriminazione razziale &#8211; COMUNITÀ EDUCATIVA “16 AGOSTO”</title>
 		<link>https://fill-x.github.io/piccolipassigrandisogni/giornata-internazionale-per-leliminazione-della-discriminazione-razziale-comunita-educativa-16-agosto/</link>
@@ -205,7 +205,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 <li>esperienza: prima di ogni altra cosa, il cliente è sicuramente attratto dalla nuova esperienza, nei sapori, nei profumi e nelle location che sono sempre molto suggestive. Mangiare in un locale etnico, di solito, significa immergersi in un&#8217;atmosfera molto particolare e vivere una cena sentendosi lontani dalla quotidianità;</li>
 
 
